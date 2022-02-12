@@ -31,7 +31,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="hhttps://discord.gg/YxdWJVKBNW/" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942100543629824071/discord-logo-logodownload-download-logotipos-1.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/jk231206/" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/938051772847652875/942094338555539516/1024px-Instagram_icon.png?width=559&height=559" width="50" /></a>  
+&nbsp; <a href="hhttps://discord.gg/YxdWJVKBNW/" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942100543629824071/discord-logo-logodownload-download-logotipos-1.png" width="50" /></a>  
 &nbsp; <a href="mailto:jashkankariya23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942095232038764554/512px-Gmail_icon_28202029.png"  width="50" /></a>
 </p>
