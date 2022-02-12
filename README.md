@@ -19,12 +19,7 @@
 - 🔧 &nbsp; Sublime Text | Arduino IDE | Visual Studio code 
 - 🖥 &nbsp; Canva Pro | Adobe | Cavalry | OBS Studio
 
-<br>
-
-<img align="center" src="![](https://github.com/Vader-OP/github-stats/blob/master/generated/overview.svg)alt="Vader-OP's Github Stats">
-
-</br>
-
+![](https://github.com/Vader-OP/github-stats/blob/master/generated/overview.svg)alt="Vader-OP's Github Stats">
 ![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 
