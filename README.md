@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning discord.py
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently giving the final board exam of IGCSE
+- 🎓 &nbsp; Currently in IBDP 1 [i.e. 11 Grade] at Ahmedabad Internation School
 - 💼 &nbsp; Bot and Webpage developer, GFX Artist
 - 🌱 &nbsp; Enthusiast in Cyber Security, Discord Bots and Artificial Intelligence.
 - ✍️ &nbsp; Watching movies and trying out latest libraries as hobbies/side hustles.
