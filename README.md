@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m currently learning discord.py
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently in IBDP 1 [i.e. 11 Grade] at Ahmedabad International School
-- 💼 &nbsp; Bot and Webpage developer, GFX Artist
+- 🎓 &nbsp; Currently in IBDP 2 [i.e. 12th Grade] at Ahmedabad International School
+- 💼 &nbsp; Bot and Webpage developer, GFX Artist, Gamer
 - 🌱 &nbsp; Enthusiast in Cyber Security, Discord Bots and Artificial Intelligence.
 - ✍️ &nbsp; Watching movies and trying out latest libraries as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -31,7 +31,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/jash_231206/" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/938051772847652875/942094338555539516/1024px-Instagram_icon.png?width=559&height=559" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/jash_2312_/" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/938051772847652875/942094338555539516/1024px-Instagram_icon.png?width=559&height=559" width="50" /></a>  
 &nbsp; <a href="https://discord.com/invite/YxdWJVKBNW" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942100543629824071/discord-logo-logodownload-download-logotipos-1.png" width="50" /></a>  
 &nbsp; <a href="mailto:jashkankariya23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942095232038764554/512px-Gmail_icon_28202029.png"  width="50" /></a>
 </p>
