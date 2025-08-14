@@ -3,20 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning discord.py
+- 🔭 &nbsp; I’m currently exploring and learning about Artificial Intelligence.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently in IBDP 2 [i.e. 12th Grade] at Ahmedabad International School
-- 💼 &nbsp; Bot and Webpage developer, GFX Artist, Gamer
-- 🌱 &nbsp; Enthusiast in Cyber Security, Discord Bots and Artificial Intelligence.
-- ✍️ &nbsp; Watching movies and trying out latest libraries as hobbies/side hustles.
+- 🎓 &nbsp; Currently in 2nd Year of MBA Tech in Artificial Intelligence at MPSTME, NMIMS.
+- 💼 &nbsp; Student, open to freelance and hybrid job opportunities
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
+- ✍️ &nbsp; Watching movies and trying out new and upcoming technological advances.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | Arduino
 - 🌐 &nbsp; IOS | flutter | HTML | CSS | JavaScript  
-- 🛢 &nbsp; MySQL | Mongo DB | Heroku | Railway
-- 🔧 &nbsp; Sublime Text | Arduino IDE | Visual Studio code 
+- 🛢 &nbsp; MySQL | Mongo DB | Railway
+- 🔧 &nbsp; Sublime Text | Arduino IDE | Visual Studio code | Jupyter
 - 🖥 &nbsp; Canva Pro | Adobe | Cavalry | OBS Studio
 
 <br>
@@ -26,12 +26,3 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vader-OP&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://www.instagram.com/jash_2312_/" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/938051772847652875/942094338555539516/1024px-Instagram_icon.png?width=559&height=559" width="50" /></a>  
-&nbsp; <a href="https://discord.com/invite/YxdWJVKBNW" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942100543629824071/discord-logo-logodownload-download-logotipos-1.png" width="50" /></a>  
-&nbsp; <a href="mailto:jashkankariya23@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://media.discordapp.net/attachments/882558103495778304/942095232038764554/512px-Gmail_icon_28202029.png"  width="50" /></a>
-</p>
