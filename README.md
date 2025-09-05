@@ -9,15 +9,15 @@
 - 💼 &nbsp; Student, open to freelance and hybrid job opportunities
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Watching movies and trying out new and upcoming technological advances.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java | Arduino
-- 🌐 &nbsp; IOS | flutter | HTML | CSS | JavaScript  
+- 🌐 &nbsp; IOS | Windows | HTML | CSS | JavaScript  
 - 🛢 &nbsp; MySQL | Mongo DB | Railway
 - 🔧 &nbsp; Sublime Text | Arduino IDE | Visual Studio code | Jupyter
-- 🖥 &nbsp; Canva Pro | Adobe | Cavalry | OBS Studio
+- 🖥 &nbsp; Canva Pro | Adobe | Final Cut Pro | OBS Studio
 
 <br>
 
